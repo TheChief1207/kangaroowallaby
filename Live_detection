@@ -1,0 +1,2 @@
+#The following piece of code can be executed to use the camera for real time detection using the pre-trained models. The path for the model can be changed
+!python ./yolov5/detect.py --conf 0.4 --weights ./models/kangaroowallaby-yolov5m/weights/best.pt --source 0
